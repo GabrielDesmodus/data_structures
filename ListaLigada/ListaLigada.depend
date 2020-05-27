@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1572398192 source:g:\listaligada\listaligada.c
+	<stdio.h>
+	<stdlib.h>
+	"listaLigada.h"
+
+1572395882 g:\listaligada\listaligada.h
+
+1572398160 source:g:\listaligada\main.c
+	<stdio.h>
+	<stdlib.h>
+	"listaLigada.h"
+
+1572398442 source:f:\listaligada\listaligada.c
+	<stdio.h>
+	<stdlib.h>
+	"listaLigada.h"
+
+1572395882 f:\listaligada\listaligada.h
+
+1572398160 source:f:\listaligada\main.c
+	<stdio.h>
+	<stdlib.h>
+	"listaLigada.h"
+
