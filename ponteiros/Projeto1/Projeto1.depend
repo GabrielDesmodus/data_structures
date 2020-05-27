@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1590619790 source:f:\projeto1\projeto1\minhalib.c
+
+1590620958 source:f:\projeto1\projeto1\main.c
+	<stdio.h>
+	<locale.h>
+
